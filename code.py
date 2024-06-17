@@ -33,7 +33,7 @@ layout = KeyboardLayoutUS(keyboard)
 
 keymap =    [Keycode.LEFT_ARROW,
              Keycode.SPACEBAR,
-             Keycode.POUND,
+             Keycode.F10,
              Keycode.PAGE_UP,
 
              Keycode.DOWN_ARROW,
@@ -44,12 +44,12 @@ keymap =    [Keycode.LEFT_ARROW,
              Keycode.UP_ARROW,
              Keycode.TAB,
              Keycode.DELETE,
-             Keycode.J,
+             Keycode.F11,
              
              Keycode.RIGHT_ARROW,
              Keycode.ENTER,
              Keycode.ESCAPE,
-             Keycode.APPLICATION,
+             Keycode.F12,
 ]
 
 # A map of keycodes that will be mapped sequentially to each of the keys, 0-15
