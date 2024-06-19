@@ -1,0 +1,7 @@
+#+TITLE: Pimoroni Keybow 2040 "Clicky Keys"
+#+EMAIL: babkock@protonmail.com
+#+LANGUAGE: en
+
+[[https://github.com/Babkock/Keybow2040/blob/main/keys.png?raw=true]]
+
+This repository features the contents of my Keybow 2040 mechanical keyboard. The code for this device is written in Python (CircuitPython), it has a small number of internal libraries it depends on.
