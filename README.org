@@ -4,4 +4,8 @@
 
 [[https://github.com/Babkock/Keybow2040/blob/main/keys.png?raw=true]]
 
+[[https://github.com/Babkock/Keybow2040/blob/main/keybow.jpg?raw=true]]
+
 This repository features the contents of my Keybow 2040 mechanical keyboard. The code for this device is written in Python (CircuitPython), it has a small number of internal libraries it depends on.
+
+The cool you rainbow you see in the pictures? That's [[https://github.com/Babkock/Keybow2040/blob/main/examples/rainbow.py][rainbow.py]], it's not the default program that comes with the device, you have to copy it to *code.py* to get it to run.
